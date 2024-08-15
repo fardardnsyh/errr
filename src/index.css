@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Manrope', sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  
+  --color-bg: #040C18;
+  --color-footer : #031B34;
+  --color-blog: #042c54;
+  --color-text: #81AFDD;
+  --color-subtext: #FF8A71;
+  --color-sidebar-bg: #2e2e2e; /* Sidebar background color */
+  --color-sidebar-item-bg: #3e3e3e; /* Chat item background color */
+  --color-sidebar-item-border: #ffffff; /* Border color of chat items */
+  --color-sidebar-item-active-bg: #D7D7D7; /* Background color of active chat item */
+  --color-sidebar-item-active-text: #000000; /* Text color of active chat item */
+  --color-sidebar-item-hover-bg: #3e3e3e; /* Background color of hovered chat item */
+  --color-sidebar-item-hover-text: #ffffff; /* Text color of hovered chat item */
+  --color-delete: #ff4d4d; /* Color of delete button */
+  --color-delete-hover: #ff0000;
+}
